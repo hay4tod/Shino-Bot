@@ -373,7 +373,6 @@ break
 case 'ff':
 case 'freefire':{
 let teq =`*FREE FIRE*
-la
 ✅ TOPUP LIST 💥
 📌140💎 Rp. 20.000
 📌280💎 Rp. 38.000
