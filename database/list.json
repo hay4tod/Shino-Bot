@@ -1,0 +1,23 @@
+[
+   {
+      "id": "120363027801214165@g.us",
+      "key": "YouTube Premium",
+      "response": "*YouTube Premium 4 Bulan* \n->8K",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363027801214165@g.us",
+      "key": "Spotify Premium",
+      "response": "*Spotify Premium 3 Bulan* \n->8K",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363027801214165@g.us",
+      "key": "pulsa",
+      "response": "5.000 = Rp. 7.000\n10.000 = Rp. 12.000\n20.000 = Rp. 22.000\n30.000 = Rp. 32.000\n50.000 = Rp. 52.000\n100.000 = Rp. 102.000",
+      "isImage": false,
+      "image_url": "-"
+   }
+]
